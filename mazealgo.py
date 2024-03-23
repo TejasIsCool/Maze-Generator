@@ -1,4 +1,3 @@
-from ntpath import join
 import random,time
 from PIL import Image,ImageDraw
 import gc
